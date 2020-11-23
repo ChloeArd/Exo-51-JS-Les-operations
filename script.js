@@ -4,9 +4,9 @@ let addition = result + 2;
 
 let soustraction = result - 1;
 
-alert(result * addition);
+alert("Le résultat de result * addition = " + result * addition);
 
-alert(result ** soustraction)
+alert("Le résultat de result exp(soustraction) = " + result ** soustraction)
 
 let modulo = 5 % 2;
-alert(modulo);
+alert("Le résultat de modulo = " + modulo);
